@@ -1,11 +1,17 @@
 # Hemanth Vishnu Advisory
 
-Clarity for the decisions that matter.
+**Security advice carried through.**
 
-Hemanth Vishnu Advisory is the sole proprietorship of Hemanth Vishnu Akula, based in New Delhi, India.
+Workplace technology, security and governance services, delivered personally by Hemanth Vishnu Akula for businesses and nonprofits.
 
-We provide consulting in cybersecurity, compliance and managed Microsoft 365.
+The three main services are:
 
-We also own [Authex Labs](https://authexlabs.com), which is developing a managed company email service for small and medium-sized businesses.
+- **Microsoft 365 and Google Workspace:** administration, configuration, platform security and agreed implementation, including SharePoint, Teams and connected cloud and AI services.
+- **UK Cyber Essentials and CE+ readiness:** scope, gap review, agreed remediation and assessment preparation. Independent certification remains separate.
+- **Customer security assurance:** accurate questionnaire responses and organised supporting evidence, with gaps identified for review.
 
-[Website](https://hemanthvishnu.com) · [Contact](mailto:hello@hemanthvishnu.com)
+Each engagement has an agreed scope, practical delivery and a clear handover. Services are delivered remotely, with any onsite or local specialist support agreed separately.
+
+Hemanth Vishnu Advisory is an Indian sole proprietorship owned by Akula Hemanth Vishnu. It also operates the [Authex Labs](https://authexlabs.com/) software brand.
+
+[Main website](https://hemanthvishnu.com/) · [LinkedIn](https://www.linkedin.com/company/hemanth-vishnu-advisory/) · [Contact](mailto:hello@hemanthvishnu.com)
